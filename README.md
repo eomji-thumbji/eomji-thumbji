@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&reversal=true&color=gradient&height=240&section=header&text=Two%20Thumbs%20Up&fontSize=64&fontColor=E7C8D6&animation=twinkling)
 
-![Gia's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomji-thumbji&count_private=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomji-thumbji&layout=compact&theme=nightowl)](https://github.com/eomji-thumbji/github-readme-stats)
-
 <br>
 
 ![dart](https://img.shields.io/badge/Dart-04599c?style=for-the-badge&logo=dart&logoColor=white) ![flutter](https://img.shields.io/badge/Flutter-55c5f8?style=for-the-badge&logo=flutter&logoColor=white)
